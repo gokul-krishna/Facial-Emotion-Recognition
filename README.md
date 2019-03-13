@@ -17,7 +17,7 @@ For example:
 
 ![Image of faces](https://github.com/gokul-krishna/Facial-Emotion-Recognition/raw/master/example_faces.png)
 
-For much more information on training, please check out the [notebook](https://github.com/gokul-krishna/Facial-Emotion-Recognitiown/blob/master/Facial_Emotion_Recogonition.ipynb).
+For much more information on training, please check out the [notebook](https://github.com/gokul-krishna/Facial-Emotion-Recognition/blob/master/Facial_Emotion_Recogonition.ipynb).
 
 ## Inference Server
 
