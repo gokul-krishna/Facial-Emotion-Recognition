@@ -15,9 +15,9 @@ In order to distinguish different facial expressions, we chose to train the mode
 
 For example:
 
-![Image of faces](https://github.com/etown/dl1/raw/master/face/example_faces.png)
+![Image of faces](https://github.com/gokul-krishna/Facial-Emotion-Recognition/raw/master/example_faces.png)
 
-For much more information on training, please check out the [notebook](https://github.com/etown/dl1/blob/master/face/Facial_Emotion_Recogonition.ipynb).
+For much more information on training, please check out the [notebook](https://github.com/gokul-krishna/Facial-Emotion-Recognitiown/blob/master/Facial_Emotion_Recogonition.ipynb).
 
 ## Inference Server
 
